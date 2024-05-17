@@ -1,8 +1,8 @@
 # Computer Scientist 
 
 ### Education
- Tougaloo College, MA
- Bryant & Stratton, AA
+- Tougaloo College, MA
+- Bryant & Stratton, AA
 
 ### Work Experience 
 Code Ninjia 
